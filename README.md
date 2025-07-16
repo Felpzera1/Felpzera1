@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="left">Felipe Manoel Bornhausen</h1>
 
-<!--
-**Felpzera1/Felpzera1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">I am an Infrastructure Analyst with solid experience in managing and supporting corporate IT environments, focusing on availability, security, automation, and performance. I have hands-on experience with physical and virtual servers, networks, firewalls, cloud services, Active Directory, Group Policies (GPO), monitoring tools like Zabbix, and centralized management solutions such as PDQ, VMware, and Microsoft systems.<br><br>Throughout my career, I have stood out for my ability to identify bottlenecks, implement improvements, and automate processes, optimizing both time and resources. I have a strong analytical profile, with effective communication and a problem-solving mindset, contributing to system stability and increased user productivity.</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/felpzera1/felpzera1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="left">
+</div>
+
+###
