@@ -1,4 +1,4 @@
-<h1 align="left">Felipe Manoel Bornhausen</h1>
+<h1 align="left">About me</h1>
 
 ###
 
