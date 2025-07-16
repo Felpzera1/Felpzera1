@@ -6,6 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/felpzera1/felpzera1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/felpzera1/output/snake.svg" alt="Snake animation" />
 
 ###
